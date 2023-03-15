@@ -1,18 +1,10 @@
 # DOCUMENTACIÓN REST
 
-[REST](#¿qué-es-rest)
+[REST](#rest)
 
 [HTTP](#http)
 
 [RUTAS](#rutas)
-
-[GET](#get)
-
-[POST](#post)
-
-[PUT](#put)
-
-[DELETE](#delete)
 
 [CRUD](#crud)
 
@@ -20,7 +12,7 @@
 
 
 
-## ¿Qué es **REST**?
+##  **REST**
 
 REST son las siglas de REPRESENTATIONAL STATE TRANSFER. Es un tipo de arquitectura de software utilizado en sistemas distribuidos y aplicaciones web.
 
