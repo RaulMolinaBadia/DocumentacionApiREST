@@ -1,6 +1,22 @@
 # DOCUMENTACIÓN REST
 
-[TOC]
+[REST](#¿qué-es-rest)
+
+[HTTP](#http)
+
+[RUTAS](#rutas)
+
+[GET](#get)
+
+[POST](#post)
+
+[PUT](#put)
+
+[DELETE](#delete)
+
+[CRUD](#crud)
+
+[CREACION API REST](#creación-de-api-rest)
 
 
 
