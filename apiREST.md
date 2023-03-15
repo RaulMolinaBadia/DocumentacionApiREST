@@ -79,7 +79,7 @@ Este seria un ejemplo de ruta para obtener toda una lista de usuarios
     "info":{
         "status":"succes",
         "code": 200
-    },`
+    },
     "data" :{
     "alumnos": [
       {
@@ -118,7 +118,7 @@ Este seria un ejemplo de ruta para obtener toda una lista de usuarios
     "info":{
         "status":"succes",
         "code": 200
-    },`
+    },
     "data" :{
     "alumnos": [
       {
@@ -144,7 +144,7 @@ Este seria un ejemplo de ruta para obtener un usuario en concreto
     "info":{
         "status":"succes",
         "code": 200
-    },`
+    },
     "data" : { "nombre": "Ana Pie"}
 }
 ```
