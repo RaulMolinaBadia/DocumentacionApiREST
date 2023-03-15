@@ -107,6 +107,8 @@ Este seria un ejemplo de ruta para obtener toda una lista de usuarios
 }
 ```
 
+Este seria un ejemplo de ruta para obtener un usuario en concreto
+
 - **PETICION**
 
         GET https://api.misitio.com/usuarios/1
@@ -131,7 +133,7 @@ Este seria un ejemplo de ruta para obtener toda una lista de usuarios
 }
 ```
 
-Este seria un ejemplo de ruta para obtener un usuario en concreto
+Este seria un ejemplo de ruta para obtener el nombre de un usuario en concreto
 
 - **PETICION**
 
@@ -151,8 +153,8 @@ Este seria un ejemplo de ruta para obtener un usuario en concreto
 ---
 
 ### **POST**
-
 Se utiliza para añadir/subir datos
+
 Este seria un ejemplo de ruta para crear un usuario
 
 - **PETICION**
@@ -171,10 +173,13 @@ Este seria un ejemplo de ruta para crear un usuario
 }
 ```
 
+junto con los datos del usuario que se desean crear, que los pasarias por el body del fetch o la peticion.
+
 ---
 ### **PUT**
 
 Se utiliza para actualizar los datos
+
 Este seria un ejemplo de ruta para actualizar un usuario
 
 - **PETICION**
@@ -201,6 +206,8 @@ Este seria un ejemplo de ruta para actualizar un usuario
 }
 ```
 
+el id seria el identificador del usuario que quieres actulizar junto con sus nuevos datos.
+
 ---
 ### **DELETE**
  Sirve para eliminar informacion
@@ -222,6 +229,8 @@ Este seria un ejemplo de ruta para actualizar un usuario
   "data": { "id": 3 }
 }
 ```
+
+el id seria el identificador del usuario que quieres eliminar.
 
 ---
 
@@ -260,4 +269,3 @@ Crear una API REST implica diferentes pasos.
 7. **Agregar pruebas unitarias**: Para asegurarse de que la API REST funcione correctamente, se agregarán pruebas unitarias. Las pruebas unitarias permiten probar la funcionalidad de la API de manera aislada.
 
 8. **Documentar la API**: Finalmente, se tiene que documentar la API para que los usuarios puedan entender cómo utilizarla. Esto podría incluir una lista de los recursos disponibles, las rutas disponibles, las operaciones CRUD disponibles y cualquier otro detalle relevante.
-
